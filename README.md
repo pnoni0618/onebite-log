@@ -27,6 +27,12 @@ React + Supabase로 만든 SNS 웹 애플리케이션입니다.
 | --- | --- |
 | <img src="images/feature-avatar-zoom.png" width="320"> | <img src="images/feature-carousel.png" width="320"> |
 
+### 프로필 페이지 (사용자별 게시글 피드)
+
+프로필 페이지에서는 해당 사용자의 소개와 작성한 게시글만 모아 볼 수 있습니다.
+
+<img src="images/feature-profile-feed.png" width="320">
+
 ## 기술 스택
 
 | 분류 | 사용 기술 |
